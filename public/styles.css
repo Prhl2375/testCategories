@@ -1,0 +1,15 @@
+.category {
+    margin-left: 10px;
+}
+
+.subcategory {
+    margin-left: 20px;
+}
+
+.button-group {
+    display: inline-block;
+}
+
+.button-group button {
+    margin-right: 5px;
+}
